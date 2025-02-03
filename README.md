@@ -1,1 +1,3 @@
-# Titanic-Survival-Prediction
+ The goal of the project is to create a machine learning model that can predict whether or not a passenger will survive the historic Titanic shipwreck. The Titanic dataset from Kaggle, which includes details about the passengers like age, gender, and ticket
+ class, will be used in our work. We will train a logistic regression model and use GridSearchCV to optimize its hyperparameters in order to attain the best possible performance after completing the required data preprocessing steps. To determine how
+ well the model predicts passenger survival, a hold-out test set will be used to analyze its accuracy and classification report
